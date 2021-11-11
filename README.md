@@ -1,7 +1,7 @@
 # Tarea-1
-DEPARTAMENTO DE ELÉCTRICA, ELECTRÓNICA Y TELECOMUNICACIONES
+**DEPARTAMENTO DE ELÉCTRICA, ELECTRÓNICA Y TELECOMUNICACIONES**
 
-Tarea de Fundamentos en circuitos eléctricos
+**Tarea de Fundamentos en circuitos eléctricos**
 
 INSTRUCTOR: DARWIN ALULEMA
 
@@ -11,7 +11,7 @@ TEORIA DE FUNDAMENTOS DE CIRCUITOS
 
 NRC: 10149
 
-INTEGRANTES:
+**INTEGRANTES:**
 
 • Flores Arévalo André Josefat
 
@@ -19,7 +19,7 @@ INTEGRANTES:
 
 TEMAS: Cantidades y Unidades / Voltaje, corriente y Resistencia
 
-OBJETIVOS:
+**OBJETIVOS:**
 
 General:
 
@@ -37,7 +37,7 @@ Especificos:
 
 -Examinar los diversos instrumentos de medición entendiendo su uso y función.
 
-Capitulo 1: Cantidades y unidades
+**Capitulo 1: Cantidades y unidades**
 
 ![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SI.png)
 
@@ -45,17 +45,17 @@ Capitulo 1: Cantidades y unidades
 
 ![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/Unidades%20metricas.png)
 
-Ejercicios del capitulo 1:
+**Ejercicios del capitulo 1:**
 
 ![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%201%20DIEGO%20ALVARADO_page-0001.jpg)
 
 ![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%201%20DIEGO%20ALVARADO_page-0002.jpg)
 
-Capitulo 2: Voltaje, corriente y resistencia
+**Capitulo 2: Voltaje, corriente y resistencia**
 
 ![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/Untitled.jpg)
 
-Ejercicios del Capitulo 2:
+**Ejercicios del Capitulo 2:**
 
 ![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%202%20ANDRE%20FLORES_page-0001.jpg)
 
@@ -70,9 +70,3 @@ Ejercicios del Capitulo 2:
 ![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%202%20ANDRE%20FLORES_page-0006.jpg)
 
 ![](https://github.com/diego333jose/Tarea-1/blob/main/Imagenes/SECCION%202%20ANDRE%20FLORES_page-0007.jpg)
-
-Conclusiones:
--El uso de la notacion cientificia y de ingenieria es sumamente util al momento de querer trabajar con numeros de gran tamaño esto apoyado por los prefijos metricos (en caso de notacion de ingenieria) quienes sustituyen la necesidad de escribir la base 10, agilizando el trabajo.
-
--
-

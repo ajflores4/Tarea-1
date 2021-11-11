@@ -1,7 +1,7 @@
 # Tarea-1
-DEPARTAMENTO DE ELÉCTRICA, ELECTRÓNICA Y TELECOMUNICACIONES
+**DEPARTAMENTO DE ELÉCTRICA, ELECTRÓNICA Y TELECOMUNICACIONES**
 
-Tarea de Fundamentos en circuitos eléctricos
+**Tarea de Fundamentos en circuitos eléctricos**
 
 INSTRUCTOR: DARWIN ALULEMA
 
@@ -11,7 +11,7 @@ TEORIA DE FUNDAMENTOS DE CIRCUITOS
 
 NRC: 10149
 
-INTEGRANTES:
+**INTEGRANTES:**
 
 • Flores Arévalo André Josefat
 
